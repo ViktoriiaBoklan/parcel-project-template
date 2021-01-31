@@ -10,12 +10,12 @@
     @media screen and (min-width:1344px) {
     padding-top: 100px;    
     min-height: 560px;       
-    
+    width: 1680px;
     background-image: url(../images/problems/campfire.png);
     background-repeat: no-repeat;
-    background-position: left 1090px top 88px;    
+    background-position: right bottom;    
     background-size: 455px 472px;
-    @media screen and (min-device-pixel-ratio: 2),
+    @media screen and (min-device-pixel-ratio: 2),    
   screen and (-webkit-min-device-pixel-ratio: 2),
   screen and (-o-min-device-pixel-ratio: 2/1),
   screen and (min-resolution: 192dpi),
